@@ -1,0 +1,14 @@
+E:\Revest\DICOM\DicomToJpeg\DicomToJpeg\bin\Debug\DicomToJpeg.exe.config
+E:\Revest\DICOM\DicomToJpeg\DicomToJpeg\bin\Debug\DicomToJpeg.exe
+E:\Revest\DICOM\DicomToJpeg\DicomToJpeg\bin\Debug\DicomToJpeg.pdb
+E:\Revest\DICOM\DicomToJpeg\DicomToJpeg\obj\Debug\DicomToJpeg.csprojAssemblyReference.cache
+E:\Revest\DICOM\DicomToJpeg\DicomToJpeg\obj\Debug\DicomToJpeg.Form1.resources
+E:\Revest\DICOM\DicomToJpeg\DicomToJpeg\obj\Debug\DicomToJpeg.Properties.Resources.resources
+E:\Revest\DICOM\DicomToJpeg\DicomToJpeg\obj\Debug\DicomToJpeg.csproj.GenerateResource.cache
+E:\Revest\DICOM\DicomToJpeg\DicomToJpeg\obj\Debug\DicomToJpeg.csproj.CoreCompileInputs.cache
+E:\Revest\DICOM\DicomToJpeg\DicomToJpeg\obj\Debug\DicomToJpeg.exe
+E:\Revest\DICOM\DicomToJpeg\DicomToJpeg\obj\Debug\DicomToJpeg.pdb
+E:\Revest\DICOM\DicomToJpeg\DicomToJpeg\bin\Debug\Dicom.Core.dll
+E:\Revest\DICOM\DicomToJpeg\DicomToJpeg\bin\Debug\Dicom.Core.pdb
+E:\Revest\DICOM\DicomToJpeg\DicomToJpeg\bin\Debug\Dicom.Core.xml
+E:\Revest\DICOM\DicomToJpeg\DicomToJpeg\obj\Debug\DicomToJpeg.csproj.CopyComplete
